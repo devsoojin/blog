@@ -22,3 +22,8 @@
   color: #ffffff;
 }
 
+@layer components {
+  .v-center {
+    @apply h-full flex flex-col justify-center
+  }
+}

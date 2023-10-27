@@ -21,6 +21,7 @@ const config: Config = {
         'mainDGreen': "#125B50",
         'mainBlue': "#277BC0",
         'ivory': "#277BC0",
+        'dartGrey': '#3B3B3B'
       }
     },
   },
